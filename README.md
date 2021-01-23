@@ -17,9 +17,5 @@ PCB files for NeoPixel_HD FeatherWing. The format is EagleCAD schematic and boar
 
 ### License
 
-Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
-
-All text above must be included in any redistribution
-
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
 See license.txt for additional information.
