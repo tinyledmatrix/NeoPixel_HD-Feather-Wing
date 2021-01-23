@@ -2,7 +2,7 @@
 More Information and Images also here: https://hackaday.io/project/168448
 
 
-Inspired and based on Adafruit's NeoPixel FeatherWing, but with more Pixels! 
+Inspired and based on Adafruit's NeoPixel FeatherWing, but with more Pixels! This readme is also partly transfered from Adafruit. 
 
 You can find the original here:
 http://www.adafruit.com/products/2945  or 
