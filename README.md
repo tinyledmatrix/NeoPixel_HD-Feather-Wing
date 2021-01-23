@@ -1,4 +1,7 @@
 ## NeoPixel_HD FeatherWing PCB
+
+![img](https://cdn.hackaday.io/images/2769861578436455060.jpg)
+
 More Information and Images also here: https://hackaday.io/project/168448
 
 
